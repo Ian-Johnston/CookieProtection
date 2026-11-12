@@ -1,0 +1,51 @@
+Cookie Protection (CookieMiniFilter)
+========================================
+
+Cookie Protection(TM) (c) 2026 Ian Johnston. Released under the licence below.
+
+Licence and usage
+------------------
+Cookie Protection is provided free of charge for personal, non-commercial use only.
+If the author makes the source code publicly available, it may be used, modified
+and redistributed for non-commercial purposes only.
+
+Neither Cookie Protection nor its source code, in whole or in part, may be used for
+commercial purposes - including use within businesses and organisations - without a
+separate commercial licence from the author. Please contact the author via
+www.ianjohnston.com to discuss commercial licensing.
+
+The Cookie Protection name and icon belong to the author. Modified or derived
+versions must not be called Cookie Protection, or use a name or icon likely to be
+confused with it, without the author's written permission.
+
+Privacy
+-------
+Cookie Protection does not collect or send any data. Its log stays on your PC.
+
+Disclaimer
+----------
+Cookie Protection and its source code are provided "as is", without warranty of any
+kind, express or implied. Use is entirely at your own risk.
+
+This software installs a kernel-mode driver. Although tested, kernel software can in
+rare cases cause system instability or a bug-check (BSOD). To the maximum extent
+permitted by law, the author accepts no liability for any data loss, system damage,
+downtime, or for any theft of cookies, passwords or other data that still occurs -
+no security tool is 100% effective. Make sure you have backups.
+
+Cookie Protection depends on how Windows and each supported browser store and
+open their files. Microsoft and the browser makers can change this at any time,
+for example in an update, so protection that works today may stop working, or
+only partly work, in future versions. No guarantee is given that it will keep
+working with future versions of Windows or any browser.
+
+Windows, Microsoft Edge, Google Chrome, Mozilla Firefox, Opera, Brave, Vivaldi and
+other product names and trademarks belong to their respective owners. Cookie
+Protection is not affiliated with or endorsed by any of them.
+
+Author
+------
+Ian Johnston
+- Website: www.ianjohnston.com
+- YouTube: youtube.com/user/IanScottJohnston
+- Twitter / X: @IanSJohnston
