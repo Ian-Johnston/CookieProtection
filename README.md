@@ -2,7 +2,10 @@
 
 **Stops infostealer malware stealing your browser login & cookie files - Windows 10 & 11 (64-bit).**
 
-By Ian Johnston Engineering Limited - [www.ianjohnston.com](https://www.ianjohnston.com/index.php/projects/cookieprotection)
+By Ian Johnston Engineering Limited - [www.ianjohnston.com](https://www.ianjohnston.com)
+
+For full details on the app see here:
+[www.ianjohnston.com/index.php/projects/cookieprotection](https://www.ianjohnston.com/index.php/projects/cookieprotection)
 
 ## Requirements
 
@@ -23,7 +26,5 @@ To uninstall, use Windows Settings > Apps. The uninstaller turns protection off 
 ## Licence
 
 Free for **personal, non-commercial use only**. Use within businesses and organisations needs a separate commercial licence - please get in touch. See [LICENSE.txt](LICENSE.txt).
-
-The source code is not published at this time.
 
 Windows, Microsoft Edge, Google Chrome, Mozilla Firefox, Opera, Brave, Vivaldi and other product names are trademarks of their respective owners. Cookie Protection is not affiliated with or endorsed by any of them.
