@@ -20,17 +20,6 @@ Protection is **off after every Windows restart** - open the app and turn it on 
 
 To uninstall, use Windows Settings > Apps. The uninstaller turns protection off and removes the driver.
 
-## Notes
-
-- Some normal programs - Windows' SysMain, Microsoft Defender, and Opera's and Vivaldi's own helpers - read browser files now and then. They're blocked harmlessly and shown as **ℹ Normal**, with no pop-up.
-- Not a replacement for antivirus.
-
-Full details, the technical side and how it's been tested: [ianjohnston.com - Cookie Protection](https://www.ianjohnston.com/index.php/projects/cookieprotection)
-
-## Discuss
-
-Questions, suggestions and bug reports are welcome on the [EEVBlog forum](https://www.eevblog.com/forum/security/cookie-protection-a-windows-kernel-driver-that-blocks-cookie-theft/) or via the [contact page](https://www.ianjohnston.com/index.php/contact).
-
 ## Licence
 
 Free for **personal, non-commercial use only**. Use within businesses and organisations needs a separate commercial licence - please get in touch. See [LICENSE.txt](LICENSE.txt).
