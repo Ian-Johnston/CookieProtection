@@ -13,6 +13,7 @@ For full details on the app, see
 - The technical side
 - Instructions
 - Installation
+- Source code availability
 - Supporting the app
 - Licence & usage
 - Privacy
