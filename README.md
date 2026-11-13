@@ -4,29 +4,6 @@
 
 By Ian Johnston Engineering Limited - [www.ianjohnston.com](https://www.ianjohnston.com/index.php/projects/cookieprotection)
 
-![Cookie Protection](CookieProtection.png)
-
-> **Status:** not yet released. The kernel driver is waiting to be signed by Microsoft. Downloads will appear under **Releases** when it's ready.
-
-## What it does
-
-Infostealer malware doesn't need your passwords. It copies your browser's cookie and login files and uses the session cookies inside them to log straight into your accounts - bypassing your password and two-factor authentication.
-
-Cookie Protection installs a small Windows kernel **file-system minifilter driver** that only lets genuine browsers open their own cookie, login and encryption-key files. Any other program that tries - malware included - is blocked and the attempt is logged. Unlike file permissions, this works even against malware running under your own user account.
-
-**Supported browsers:** Chrome, Edge, Brave, Vivaldi, Opera, Opera GX and Firefox.
-
-## Features
-
-- Blocks non-browser programs from reading browser cookies, saved passwords, autofill data and encryption keys.
-- Full-path browser allow-list - renamed or copied fake browsers are blocked too.
-- Blocks browsers started in headless or remote-debugging mode.
-- Blocks copying the files through a network share, and renaming or hard-linking them to get round the check.
-- Live Activity box and log.txt, with origin details for every real attack (path, command line, parent process, signature, SHA-256 / VirusTotal link, download source).
-- Tray notifications and a coloured status dot.
-- Per-browser and per-file-type settings, plus a built-in Self-Test.
-- Tamper resistant - the driver can't be unloaded, stopped or reconfigured except through the app.
-
 ## Requirements
 
 - Windows 10 or 11, 64-bit
