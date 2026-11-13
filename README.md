@@ -4,7 +4,18 @@
 
 By Ian Johnston Engineering Limited - [www.ianjohnston.com](https://www.ianjohnston.com)
 
-For full details on the app see here:
+For full details including:
+Screenshots,
+How it works,
+Features,
+The technical side,
+Instructions,
+Installation,
+Supporting the app,
+License & usage,
+Privacy,
+Disclaimer,
+......on the app see here:
 [www.ianjohnston.com/index.php/projects/cookieprotection](https://www.ianjohnston.com/index.php/projects/cookieprotection)
 
 ## Requirements
